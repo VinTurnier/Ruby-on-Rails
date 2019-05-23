@@ -3,7 +3,7 @@ Ruby-on-Rails
 ## Coursera Certification
 This course is offered by John Hopkins University
 ### Course 1
-- [ ] Introduction to Ruby
+- [X] Introduction to Ruby
 - [ ] Introduction to Ruby on Rails
 
 ### Course 2: Rails With Active Record and Action Pack
