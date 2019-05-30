@@ -4,7 +4,7 @@ Ruby-on-Rails
 This course is offered by John Hopkins University
 ### Course 1
 - [X] Introduction to Ruby
-- [ ] Introduction to Ruby on Rails
+- [X] Introduction to Ruby on Rails
 
 ### Course 2: Rails With Active Record and Action Pack
 - [ ] Introduction to Active Record
